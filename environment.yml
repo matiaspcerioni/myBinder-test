@@ -14,4 +14,6 @@ dependencies:
   - navigator-updater
   - mamba
   - nbconvert
+  - numpy
+  - pandas
 prefix: /home/administrador/anaconda3
